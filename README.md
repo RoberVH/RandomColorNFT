@@ -1,4 +1,4 @@
-#RandomColorNFT Contract
+# RandomColorNFT Contract
 My version of demo contract https://docs.base.org/tutorials/simple-onchain-nfts/#random-color-nft-contract
 this is to follow other tutorials from Base that need a NFT contract
 It was desployed to Base Sepolia
